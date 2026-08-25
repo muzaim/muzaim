@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="none" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I'm Syafri Surya, a Full Stack Engineer.
@@ -37,9 +37,6 @@
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=muzaim&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Syafri Surya's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=muzaim&theme=dark&radius=10" alt="muzaim's Activity Graph" />
 </p>
 
 
@@ -132,4 +129,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 
