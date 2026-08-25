@@ -33,7 +33,6 @@
   <a href="https://github.com/muzaim">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muzaim&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="muzaim's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=muzaim&theme=dark&hide_border=true&cache_seconds=86400" alt="muzaim's GitHub Streak" width="49%" />
 </p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=muzaim&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Syafri Surya's GitHub Trophies" />
@@ -131,6 +130,6 @@
 </picture>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
